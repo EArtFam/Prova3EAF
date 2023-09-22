@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5EE84aD36A55aF44Abe4a82352DA447B23372804",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x5ee84ad36a55af44abe4a82352da447b23372804",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "EAF Clothing",
+  "SYMBOL": "EAF",
+  "MAX_SUPPLY": 2600,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/prova-eaf",
+  "SHOW_BACKGROUND": true
+}
